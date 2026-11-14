@@ -1,0 +1,170 @@
+Read proxies.yaml from /etc/theHarvester/proxies.yaml
+*******************************************************************
+*  _   _                                            _             *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __|  _ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* theHarvester 4.10.1                                             *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*                                                                 *
+*******************************************************************
+
+[*] Target: networkwalks.com 
+
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Failed to process bevigil search for word: 'networkwalks.com'
+Error Message: 'bevigil'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Failed to process bitbucket search for word: 'networkwalks.com'
+Error Message: 'bitbucket'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Failed to process bufferoverun search for word: 'networkwalks.com'
+Error Message: 'bufferoverun'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Failed to process builtwith search for word: 'networkwalks.com'
+Error Message: 'builtwith'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Failed to process brave search for word: 'networkwalks.com'
+Error Message: 'brave'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Unexpected error occurred in Censys module: 'censys'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in Chaos: 
+[!] Missing API key for Chaos (ProjectDiscovery). 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Failed to process criminalip search for word: 'networkwalks.com'
+Error Message: 'criminalip'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Failed to process dehashed search for word: 'networkwalks.com'
+Error Message: 'dehashed'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Failed to process dnsdumpster search for word: 'networkwalks.com'
+Error Message: 'dnsdumpster'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in Fofa: 
+[!] Missing API key for Fofa API (key and email required). 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Failed to process hackertarget search for word: 'networkwalks.com'
+Error Message: 'hackertarget'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+An exception has occurred in HaveIBeenPwned search: 'haveibeenpwned'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+An exception has occurred in hunterhow search: 'hunterhow'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+An exception has occurred in Intelx search: 'intelx'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+An exception has occurred in LeakLookup search: 'leaklookup'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Unexpected response structure from Onyphe (missing key): 'onyphe'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+An exception has occurred in PentestTools search: 'pentestTools'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+An exception has occurred in ProjectDiscovery
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+An exception has occurred in RocketReach: 'rocketreach'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+An exception has occurred in SecurityScorecard search: 'securityscorecard'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+An exception has occurred in venacus search: 'venacus'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+An exception has occurred in WhoisXML search: 'whoisxml'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+[*] Searching Baidu. 
+[*] Searching Commoncrawl. 
+	Searching results.
+[*] Searching Certspotter. 
+Exception occurred: Expected object or value
+[*] Searching Duckduckgo. 
+	Searching 0 results.
+Error performing search: Cannot connect to host api.github.com:443 ssl:default [Timeout while contacting DNS servers]
+	Exception occurred: status_code: 500 reason: {}
+[*] Searching Github-code. 
+[*] Searching Gitlab. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+LeakIX API error: 'leakix'
+[*] Searching Leakix. 
+[*] Searching Otx. 
+[*] Searching Hudsonrock. 
+[*] Searching Rapiddns. 
+	Searching Shodan for 192.232.216.135
+Found Shodan data for 192.232.216.135
+[*] Searching Shodan. 
+[*] Searching Robtex. 
+[*] Searching Subdomainfinderc99. 
+An exception has occurred in THC: Cannot connect to host ip.thc.org:443 ssl:default [Timeout while contacting DNS servers]
+[*] Searching Thc. 
+[*] Searching Subdomaincenter. 
+No response from ThreatCrowd API for: networkwalks.com
+[*] Searching Threatcrowd. 
+[*] Searching Urlscan. 
+[*] Searching Waybackarchive. 
+[*] Windvane API key not found. Using limited unauthenticated access.
+[*] Searching CRTsh. 
+[*] Searching Windvane. 
+[*] Searching Yahoo. 
+
+ A error occurred while processing a "work item".
+
+
+[*] ASNS found: 1
+--------------------
+AS31898
+
+[*] Interesting Urls found: 1
+--------------------
+https://networkwalks.com/
+
+[*] No LinkedIn users found.
+
+
+
+[*] LinkedIn Links found: 0
+---------------------
+
+[*] IPs found: 2
+-------------------
+192.232.216.135
+
+[*] Emails found: 1
+----------------------
+info@networkwalks.com
+
+[*] No people found.
+
+[*] Hosts found: 15
+---------------------
+*.networkwalks.com
+autodiscover.networkwalks.com
+autodiscoverp.networkwalks.com
+autodiscovers.networkwalks.com
+cpanel.networkwalks.com
+cpanelr.networkwalks.com
+cpcalendars.networkwalks.com
+cpcalendarsm.networkwalks.com
+cpcalendarsr.networkwalks.com
+cpcontacts.networkwalks.com
+cpcontactsk.networkwalks.com
+cpcontactss3.networkwalks.com
+mail.networkwalks.com
+webdisk.networkwalks.com
+webmail.networkwalks.com
+
+[*] Performing SecurityScorecard scan...
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+An exception has occurred in SecurityScorecard scanning: 'securityscorecard'
+
+[*] Performing BuiltWith scan...
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
