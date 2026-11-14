@@ -27,7 +27,8 @@ During this week's project, the following tools and techniques were utilized:
 *   **Python Error with `dnsrecon`:** During the reconnaissance phase, I encountered a `ModuleNotFoundError`. This was resolved by ensuring all required Python dependencies were installed in the virtual environment. Details of the fix are documented in the `/Report` PDF.
 *   **Data Privacy:** As per the submission guidelines, all sensitive data, including actual IP addresses and compromised user details, have been strictly redacted from the screenshots, outputs, and report.
 
-## 🔗 Connect with Me
+## 🔗 Project Links
+*   **GitHub Repository:** [View the full repository here](https://github.com/hafizabatool056-create/NETWORKWALKS-MARYAM-B084-WK2-FOOTPRINTING-RECONNAISSANCE/tree/main)
 *   **LinkedIn Post:** [View my Week 2 Update on LinkedIn](https://lnkd.in/p/d73tjt6R)
 *   **YouTube Channel:** [Maryam Batool on YouTube](https://www.youtube.com/@MaryamBatool-x6w)
 
